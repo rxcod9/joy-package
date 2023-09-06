@@ -7,7 +7,7 @@ By 🐼 [Ramakant Gangwar](https://github.com/rxcod9).
 [![Screenshot](https://raw.githubusercontent.com/rxcod9/joy-replace-keyword/main/cover.jpg)](https://joy-laravel.herokuapp.com/)
 
 [![Latest Version](https://img.shields.io/github/v/release/rxcod9/joy-replace-keyword?style=flat-square)](https://github.com/rxcod9/joy-replace-keyword/releases)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/rxcod9/joy-replace-keyword/run-tests?label=tests)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/rxcod9/joy-replace-keyword/run-tests.yml?branch=main&label=tests)
 [![Total Downloads](https://img.shields.io/packagist/dt/joy/replace-keyword.svg?style=flat-square)](https://packagist.org/packages/joy/replace-keyword)
 
 ---
